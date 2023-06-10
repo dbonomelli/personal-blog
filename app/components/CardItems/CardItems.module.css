@@ -1,0 +1,19 @@
+.titleCard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid red;
+    border-radius: 4px;
+    width: 20%;
+    height: 200px;
+}
+
+.descriptionCard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid red;
+    border-radius: 4px;
+    width: 100%;
+    height: 200px;
+}
