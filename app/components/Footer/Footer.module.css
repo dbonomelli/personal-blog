@@ -1,0 +1,12 @@
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    background-color: #6a3d5a;
+    color: white;
+}
+
+.footer span > a {
+    color: lightblue
+}

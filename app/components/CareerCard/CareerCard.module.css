@@ -1,0 +1,29 @@
+.card {
+    display: flex;
+    padding: 15px;
+    gap: 32px;
+    flex-direction: row;
+}
+.card-reversed {
+    display: flex;
+    padding: 15px;
+    gap: 32px;
+    flex-direction: row-reverse;
+}
+.date {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid;
+    width: 20%;
+    border-radius: 4px;
+    background-color: crimson;
+    color: white;
+}
+
+.block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}

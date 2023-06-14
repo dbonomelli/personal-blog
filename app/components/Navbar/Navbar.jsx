@@ -1,8 +1,9 @@
 import Link from "next/link"
-import styles from '../../styles/Navbar.module.css'
+import styles from './Navbar.module.css'
 const links = [
     {label: 'Inicio', route: '/'},
-    {label: 'Lenguajes', route: 'languages'}
+    {label: 'Lenguajes', route: 'languages'},
+    {label: 'Proyectos', route: 'projects'}
 ]
 
 export default function Navbar(){

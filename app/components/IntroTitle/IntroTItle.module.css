@@ -1,0 +1,10 @@
+.introstyle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid;
+    width: 100%;
+    border-radius: 4px;
+    background-color: crimson;
+    color: white;
+}
