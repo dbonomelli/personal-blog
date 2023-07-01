@@ -11,11 +11,7 @@ export default function Navbar(){
         <header className={styles.header}>
             <nav>
                 <ul className={styles.navbar}>
-                    {links.map(({label, route}) => (
-                        <li key={label}>
-                            <Link href={route}>{label}</Link>
-                        </li>
-                    ))}
+                    <span>Bienvenidos</span>
                 </ul>
             </nav>
         </header>
